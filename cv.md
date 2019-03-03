@@ -4,7 +4,7 @@
 1. *Name:* Klimenko Grigoriy
 2. *Contacts:*
 	* e-mail: fageol46@gmail.com
-	* phone number: +5 555 333 588 
+	* phone number: +5 555 333 535 
 3. *Summary:* I want to learn front-end development, improve my skills in this area, for this I have a great desire and aspiration
 4. *Skills:* HTML/CSS, JavaScript, Node.js, Git, Photoshop
 5. *Code example:* <h1>Hello, world!</h1>     
