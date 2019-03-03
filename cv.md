@@ -12,4 +12,6 @@
 7. *Education:*
 	* Vitebsk State Technological University (2008-2013)     
 	  Technological Process Automation and Production (light industry)
+	* Vitebsk State Technological University (2010-2013)     
+	  Banking 
 8. *English level:* English at the university in a group with a high level of knowledge. Chating with a native speaker at work in technical English.
